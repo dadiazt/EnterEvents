@@ -1,0 +1,22 @@
+<resources>
+
+    <string name="app_name">EnterEventsProject</string>
+    <string name="continuar">continue</string>
+    <string name="fail_conn">Conexión fallida</string>
+    <string name="loading">Cargando</string>
+    <string name="fail_auth">Error de autentificación</string>
+    <string name="sign_in">Conectar</string>
+    <string name="signed_in">Conectado</string>
+    <string name="signed_out">Desconectado</string>
+    <string name="connection">connected</string>
+    <string name="sign_out">Desconectar</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_lista_entradas">ListaEntradas</string>
+    <string name="title_activity_maps">Map</string>
+
+
+</resources>

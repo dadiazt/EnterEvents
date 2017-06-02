@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "617281385288",
+    "firebase_url": "https://entereventsproject.firebaseio.com",
+    "project_id": "entereventsproject",
+    "storage_bucket": "entereventsproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:617281385288:android:79da4fd8996a61f2",
+        "android_client_info": {
+          "package_name": "com.example.entereventsproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "617281385288-q9oapqghphkin8iueeuko4260ru74pep.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.entereventsproject",
+            "certificate_hash": "5675f7b53935bd8014a2b6084b4b24fd545b5bda"
+          }
+        },
+        {
+          "client_id": "617281385288-apk5vvoh9toktjhj5n80i8rh2dmjf9io.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdY87P56tb2-j8OEy_gcp1Quqq7In7Udo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "617281385288-apk5vvoh9toktjhj5n80i8rh2dmjf9io.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
